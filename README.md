@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Han Liang
 
-<!--
-**lianghan224-cloud/lianghan224-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering undergraduate interested in AI Infrastructure and LLM inference systems.
 
-Here are some ideas to get you started:
+## Research & Engineering Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLM Inference Optimization
+- KV Cache Compression
+- CUDA / GPU Performance
+- Sparse Tensor Computation
+- Low-rank Tensor Approximation
+- Machine Learning Systems
+
+## Featured Projects
+
+- **PARSEC**: Adaptive Parallel Sparse Tensor Completion with Load-Balanced Partitioning and Dynamic Reactivation
+- **LLM KV Cache Compression**: Ongoing project on segmented KV cache compression for long-context inference
+- **CUDA Kernel Lab**: CUDA kernels and benchmarking for GPU programming practice
+
+## Publications
+
+- Adaptive Parallel Sparse Tensor Completion with Load-Balanced Partitioning and Dynamic Reactivation, CCF-C conference paper, second author.
+
+## Contact
+
+- Email: lianghan224@gmail.com
